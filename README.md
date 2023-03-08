@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alexisgarciaa
+- 👋 Hi, I’m @alexisgarciaa 
+- ✅ I'm iOS Developer
 - 👀 I’m interested in iOS APPS
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on any project in regards of iOS APPS
 - 📫 How to reach me 
 
